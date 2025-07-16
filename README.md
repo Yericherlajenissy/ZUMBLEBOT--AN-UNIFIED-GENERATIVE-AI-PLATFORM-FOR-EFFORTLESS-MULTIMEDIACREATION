@@ -1,6 +1,4 @@
-Based on the detailed content extracted from your project report, here’s a **step-by-step guide to execute your ZumbleBot project**, formatted as a clean description you can include in your GitHub README:
-
----
+# ZUMBLEBOT - AN UNIFIED GENERATIVE AI PLATFORM FOR EFFORTLESS MULTIMEDIA CREATION
 
 ## 🚀 Steps to Execute the Project
 
